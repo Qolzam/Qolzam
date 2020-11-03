@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 
 ### The lates articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@qolzam/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@qolzam/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@qolzam/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@qolzam/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@qolzam/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@qolzam/2" alt="Recent Article 2"> 
