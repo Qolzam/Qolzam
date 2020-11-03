@@ -9,10 +9,10 @@
   <img align="left" alt="Qolzam's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-
 <br />
 
-- 🔭 I’m currently working on [Telar Social](https://telar.dev) in TypeScript/Javascript version and Cloud IoT
+#### 🔭 I’m currently working on [Telar Social](https://telar.dev) in TypeScript/JavaScript version and Cloud IoT
+
 <!--
 **Qolzam/Qolzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
